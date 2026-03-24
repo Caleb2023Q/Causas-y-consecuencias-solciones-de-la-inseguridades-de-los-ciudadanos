@@ -60,12 +60,3 @@ Algunas personas deciden irse a otros lugares en busca de mayor seguridad.
 
 La inseguridad no tiene una sola causa, sino que surge de varios factores sociales, económicos y políticos. Sus efectos impactan tanto a nivel individual como colectivo..</p>
 
-</body>
-</html>
-
-<style>
-body {
-    background-color: lightblue;
-    font-family: Arial;
-    text-align: center;
-
