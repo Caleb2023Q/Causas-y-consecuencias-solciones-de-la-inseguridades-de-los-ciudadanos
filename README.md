@@ -68,8 +68,4 @@ body {
     background-color: lightblue;
     font-family: Arial;
     text-align: center;
-}
-h1 {
-    color: darkblue;
-}
-</style>
+
