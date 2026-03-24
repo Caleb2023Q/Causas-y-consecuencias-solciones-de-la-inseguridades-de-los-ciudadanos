@@ -53,7 +53,37 @@ La inseguridad afecta la salud mental, el bienestar y la convivencia social.
 
 Algunas personas deciden irse a otros lugares en busca de mayor seguridad.
 
-🧠 En resumen
+🧠 En resumen 
 
-La inseguridad no tiene una sola causa, sino que surge de varios factores sociales, económicos y políticos. Sus efectos impactan tanto a nivel individual como colectivo..</p>
+La inseguridad no tiene una sola causa, sino que surge de varios factores sociales, económicos y políticos. Sus efectos impactan tanto a nivel individual como colectivo..
+🚔 1. Mejorar la seguridad pública
+4
+Aumentar la presencia policial en zonas peligrosas
+Usar cámaras de vigilancia y tecnología
+Implementar patrullaje comunitario
+Mejorar la capacitación y honestidad de la policía
+
+👉 Esto ayuda a prevenir delitos y reaccionar más rápido.
+
+📚 2. Educación y oportunidades
+4
+Mejor acceso a educación
+Programas de empleo para jóvenes
+Actividades deportivas y culturales
+
+👉 Muchas veces la inseguridad nace por falta de oportunidades.
+
+🏘️ 3. Fortalecer la comunidad
+4
+Organización vecinal
+Comunicación entre vecinos
+Denunciar delitos (de forma segura)
+
+👉 Barrios unidos suelen ser más seguros.
+
+⚖️ 4. Justicia efectiva
+4
+Castigos justos y rápidos
+Reducir la corrupción
+Mejor sistema penitenciario (rehabilitación)</p>
 
