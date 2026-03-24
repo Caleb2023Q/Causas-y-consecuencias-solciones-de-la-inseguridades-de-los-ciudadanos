@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Vamos a ver como podemos soluciones de la inseguridad 🌎</title>
+
 </head>
 <body>
 
